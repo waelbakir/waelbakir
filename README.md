@@ -1,9 +1,7 @@
 <h1>Hi, I'm Wael! <br/><a href="https://linkedin.com/in/ramzy-bakir">Aspiring Data Scientist</a></h1>
 
-Greetings! I'm Wael Bakir, currently based in Cairo, Egypt, and pursuing a Bachelor's degree in Computer science at SUT in the Data Science Program. I'm actively seeking opportunities and a commitment to continuous learning. Fluent in English, French, and Arabic, with a good understanding of German, and equipped with a solid foundation in programming. Let's connect and explore potential opportunities together!
+DSAI @ SUT · ML, backend & AI systems · XGBoost, CrewAI, REST APIs · Seeking internships in Data Science, AI & Backend
 
-* 🌍  I'm based in Cairo, Egypt
-* 🧠  Computer science student at SUT
 * ✉️  You can contact me at [wael.wsb6@gmail.com](mailto:wael.wsb6@gmail.com)
 * 📃  <a class="style-10"><a href="Wael Bakir Resume.pdf" class="style-11">Download my Resumé</a></a>
 
